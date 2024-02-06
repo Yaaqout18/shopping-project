@@ -5,7 +5,9 @@
   font-family: sans-serif, Arial, Helvetica;
   text-decoration: none !important;
 }
-
+body {
+  background-image: url(../images/cool-background.png);
+}
 .container{
   width: 80%;
   margin: auto;
